@@ -10,6 +10,12 @@
     "react-router": "^4.2.0",
     "react-scripts": "1.1.1"
   },
+  "keywords": [
+    "react", "reactjs"
+  ],
+  "author": {
+    "name": "Lukho Mdingi"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
